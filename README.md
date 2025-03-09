@@ -1,6 +1,8 @@
 # Lazygit
 
-A lazygit theme for the ambitious.
+A [lazygit](https://github.com/jesseduffield/lazygit) theme for the ambitious.
+
+![screenshot](./screenshot.png)
 
 ## Installation
 
